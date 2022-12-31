@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '13.0'
 
   s.source_files = 'Favgame-Search/Classes/**/*'
+  s.dependency 'Favgame-Core'
   
   # s.resource_bundles = {
   #   'Favgame-Search' => ['Favgame-Search/Assets/*.png']
