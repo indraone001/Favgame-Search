@@ -8,6 +8,7 @@
 import UIKit
 import Combine
 import SkeletonView
+import Favgame-Core
 
 class SearchViewController: UIViewController {
   
