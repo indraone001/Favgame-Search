@@ -9,7 +9,7 @@ import UIKit
 import Combine
 import SkeletonView
 import Favgame_Core
-import Favgae_Detail
+import Favgame_Detail
 
 class SearchViewController: UIViewController {
   
