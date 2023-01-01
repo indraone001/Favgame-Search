@@ -32,6 +32,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'Favgame-Search/Classes/**/*'
   s.dependency 'Favgame-Core'
+  s.dependency 'Favgame-Detail'
   
   # s.resource_bundles = {
   #   'Favgame-Search' => ['Favgame-Search/Assets/*.png']
