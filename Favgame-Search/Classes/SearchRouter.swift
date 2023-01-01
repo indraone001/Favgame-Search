@@ -7,8 +7,10 @@
 
 import Foundation
 import Favgame_Core
+import Swinject
 
 public class SearchRouter {
+  public init() {}
   let container: Container = {
     let container = Injection().container
     
