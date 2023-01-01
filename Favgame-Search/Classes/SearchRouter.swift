@@ -11,7 +11,7 @@ import Swinject
 
 public class SearchRouter {
   public init() {}
-  let container: Container = {
+  public let container: Container = {
     let container = Injection().container
     
     container.register(SearchViewController.self) { resolver in
